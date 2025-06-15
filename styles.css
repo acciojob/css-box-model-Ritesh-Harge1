@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#eg1{
+	width:300px;
+	background-color:light blue;
+	border:5px solid blue;
+	padding:50px;
+	margin:20px;
+}
